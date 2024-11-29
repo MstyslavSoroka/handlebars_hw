@@ -1,0 +1,16 @@
+* {
+    margin: 0 auto;
+    list-style: none;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.country_item {
+    padding: 30px 15px;
+    border-radius: 15px;
+    border: 1px solid #000;
+}
