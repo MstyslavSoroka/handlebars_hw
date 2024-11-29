@@ -8,7 +8,7 @@
 101C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\jsdom\node_modules\ws\lib\validation.js133773737948565051 0
 75C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\is-resolvable133773737584797643 1
 91C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\node-libs-browser\mock\tls.js133773737949742464 0
-53C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist133773762553492819 1
+53C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist133773861191799119 1
 118C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@babel\runtime\helpers\esm\unsupportedIterableToArray.js133773738501996316 0
 85C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@isaacs\cliui\index.mjs133773756771594367 0
 116C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\reporter-tracer\node_modules\@parcel\utils\src133773757383792436 1
@@ -22,7 +22,7 @@
 113C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\unicode-trie\node_modules\pako\lib\zlib\messages.js133773738265250476 0
 68C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\hasown133773737906713654 1
 96C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\svgo\plugins\convertShapeToPath.js133773738146628520 0
-61C:\Users\Mstys\Desktop\my_projects\handlebars_hw\package.json133773854546650219 0
+61C:\Users\Mstys\Desktop\my_projects\handlebars_hw\package.json133773860922068101 0
 140C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133773757481406160 0
 99C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\send\node_modules\encodeurl\README.md133773737482669317 0
 113C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\string-width-cjs\node_modules\emoji-regex\README.md133773756682662912 0
@@ -15810,7 +15810,6 @@
 83C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\isstream\package.json133773737435195971 0
 121C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\transformer-babel\node_modules\json5\lib\require.js133773756840248832 0
 80C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\isstream\README.md133773737515482529 0
-71C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.4d6bcbeb.js133773762553393092 0
 78C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\isstream\test.js133773737593302926 0
 93C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\caniuse-lite\data\regions\BD.js133773738382551989 0
 118C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\transformer-js\node_modules\semver\ranges\gtr.js133773756987764588 0
@@ -18500,7 +18499,6 @@
 104C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\es-abstract\2024\ObjectDefineProperties.js133773738785834246 0
 136C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@nodelib\fs.scandir\node_modules\@nodelib\fs.stat\out\providers\async.d.ts133773758937709147 0
 104C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\es-abstract\2024\OrdinaryGetOwnProperty.js133773738788180237 0
-72C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.2cdaf7bc.css133773762553393092 0
 104C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\es-abstract\2024\OrdinaryGetPrototypeOf.js133773738788913649 0
 101C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\es-abstract\2024\OrdinaryHasInstance.js133773738789661737 0
 102C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\es-abstract\2024\OrdinaryObjectCreate.js133773738791477300 0
@@ -30694,6 +30692,7 @@
 130C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\cache\node_modules\@parcel\utils\test\input\config\config.js133773756947327340 0
 131C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\cache\node_modules\@parcel\utils\test\input\config\empty.toml133773757480652823 0
 120C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\cache\node_modules\@parcel\utils\src\countLines.js133773756982902821 0
+75C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.fbf401c8.js.map133773861191157204 0
 118C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\cache\node_modules\@parcel\utils\src\debounce.js133773756996843625 0
 120C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\cache\node_modules\@parcel\utils\src\DefaultMap.js133773757014956428 0
 129C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\@parcel\cache\node_modules\@parcel\utils\src\dependency-location.js133773757041493687 0
@@ -31730,9 +31729,10 @@
 75C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\.bin\uuid.cmd133773738849547618 0
 75C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\.bin\uuid.ps1133773738849547618 0
 76C:\Users\Mstys\Desktop\my_projects\handlebars_hw\node_modules\.bin\which.ps1133773738849537642 0
-76C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.2cdaf7bc.css.map133773762553472874 0
-75C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.4d6bcbeb.js.map133773762553462904 0
-64C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.html133773762552882545 0
+72C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.217865da.css133773861190485081 0
+76C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.217865da.css.map133773861191117332 0
+71C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.fbf401c8.js133773861190510295 0
+64C:\Users\Mstys\Desktop\my_projects\handlebars_hw\dist\index.html133773861190485081 0
 58C:\Users\Mstys\Desktop\my_projects\handlebars_hw\.cache\00133773742333836249 1
 58C:\Users\Mstys\Desktop\my_projects\handlebars_hw\.cache\02133773747161926796 1
 58C:\Users\Mstys\Desktop\my_projects\handlebars_hw\.cache\06133773742333896074 1
