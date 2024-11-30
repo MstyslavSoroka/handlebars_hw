@@ -1,6 +1,7 @@
 {
   "name": "handlebars_hw",
   "version": "1.0.0",
+  "homepage": "https://mstyslavsoroka.github.io/handlebars_hw/",
   "scripts": {
     "start": "parcel index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "parcel": "^2.13.2",
     "parcel-bundler": "^1.12.5",
     "parcel-reporter-clean-dist": "^1.0.4",
