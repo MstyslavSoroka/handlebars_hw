@@ -604,9 +604,39 @@ var _countriesJsonDefault = parcelHelpers.interopDefault(_countriesJson);
 const list = document.querySelector(`.gallery`);
 const layout = (0, _templateHandlebarsDefault.default)((0, _countriesJsonDefault.default));
 list.innerHTML = layout;
-console.log((0, _countriesJsonDefault.default));
+console.log(layout);
 
-},{"./template.handlebars":"2EKhw","./countries.json":"dFJ8R","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"2EKhw":[function(require,module,exports,__globalThis) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./template.handlebars":"2EKhw","./countries.json":"dFJ8R"}],"gkKU3":[function(require,module,exports,__globalThis) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, '__esModule', {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === 'default' || key === '__esModule' || Object.prototype.hasOwnProperty.call(dest, key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
+
+},{}],"2EKhw":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _handlebars = require("handlebars");
@@ -11906,37 +11936,7 @@ var isSourceNode = "$$$isSourceNode$$$";
 };
 exports.SourceNode = SourceNode;
 
-},{"a07d2c2c4b11c39f":"eAEEU","18d5ff036a08fa06":"tCCrk"}],"gkKU3":[function(require,module,exports,__globalThis) {
-exports.interopDefault = function(a) {
-    return a && a.__esModule ? a : {
-        default: a
-    };
-};
-exports.defineInteropFlag = function(a) {
-    Object.defineProperty(a, '__esModule', {
-        value: true
-    });
-};
-exports.exportAll = function(source, dest) {
-    Object.keys(source).forEach(function(key) {
-        if (key === 'default' || key === '__esModule' || Object.prototype.hasOwnProperty.call(dest, key)) return;
-        Object.defineProperty(dest, key, {
-            enumerable: true,
-            get: function() {
-                return source[key];
-            }
-        });
-    });
-    return dest;
-};
-exports.export = function(dest, destName, get) {
-    Object.defineProperty(dest, destName, {
-        enumerable: true,
-        get: get
-    });
-};
-
-},{}],"dFJ8R":[function(require,module,exports,__globalThis) {
+},{"a07d2c2c4b11c39f":"eAEEU","18d5ff036a08fa06":"tCCrk"}],"dFJ8R":[function(require,module,exports,__globalThis) {
 module.exports = JSON.parse('[{"name":"United States","capital":"Washington, D.C.","population":331893745,"currency":"USD","languages":["English"],"flag":"https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"},{"name":"India","capital":"New Delhi","population":1406631787,"currency":"INR","languages":["Hindi","English"],"flag":"https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"},{"name":"Germany","capital":"Berlin","population":83240525,"currency":"EUR","languages":["German"],"flag":"https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"},{"name":"Brazil","capital":"Bras\xedlia","population":214349000,"currency":"BRL","languages":["Portuguese"],"flag":"https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"},{"name":"Australia","capital":"Canberra","population":26178000,"currency":"AUD","languages":["English"],"flag":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"}]');
 
 },{}]},["1Fqy1","gLLPy"], "gLLPy", "parcelRequire94c2")
