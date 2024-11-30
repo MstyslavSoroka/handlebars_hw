@@ -1,5 +1,5 @@
-import template from 'template.handlebars';
-import items from 'countries.json';
+import template from './src/template.handlebars';
+import items from './src/countries.json';
 
 const list = document.querySelector(`.gallery`);
 const layout = template(items);
